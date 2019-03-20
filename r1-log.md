@@ -12,3 +12,6 @@ Aplicación sencilla de reloj analogico simple desafio basado en https://javascr
 
 ### R3D3
 Aplicación sencilla de manejo de variables CSS medinate JavaScript desafio basado en https://javascript30.com disponible en [CSS-JS-VARIABLES](https://github.com/ChristianMarca/-100DaysOfCode/tree/master/CSS-JS-VARIABLES)
+
+### R4D4
+Practicando con metodos de Array.prototype desafio basado en https://javascript30.com disponible en [PlayingWithArrayMethods](https://github.com/ChristianMarca/-100DaysOfCode/tree/master/PlayingWithArrayMethods)
