@@ -17,4 +17,4 @@ Aplicación sencilla de manejo de variables CSS medinate JavaScript desafio basa
 Practicando con metodos de Array.prototype desafio basado en https://javascript30.com disponible en [PlayingWithArrayMethods](https://github.com/ChristianMarca/-100DaysOfCode/tree/master/PlayingWithArrayMethods)
 
 ### R5D5
-Solución simple para reto FizzBuzzChallenge [SimpleFizzBuzzChallenge (https://github.com/ChristianMarca/-100DaysOfCode/tree/master/FizzBuzzChallenge)
+Solución simple para reto FizzBuzzChallenge [SimpleFizzBuzzChallenge](https://github.com/ChristianMarca/-100DaysOfCode/tree/master/FizzBuzzChallenge)
