@@ -18,3 +18,6 @@ Practicando con metodos de Array.prototype desafio basado en https://javascript3
 
 ### R5D5
 Solución simple para reto FizzBuzzChallenge [SimpleFizzBuzzChallenge](https://github.com/ChristianMarca/-100DaysOfCode/tree/master/FizzBuzzChallenge)
+
+### R6D6
+Flex panel con paradigma imperativo con prototypal inheritence basado en https://javascript30.com disponible en [FlexPanels](https://github.com/ChristianMarca/-100DaysOfCode/tree/master/FlexPlanels)
