@@ -21,3 +21,6 @@ Solución simple para reto FizzBuzzChallenge [SimpleFizzBuzzChallenge](https://g
 
 ### R6D6
 Flex panel con paradigma imperativo con prototypal inheritence basado en https://javascript30.com disponible en [FlexPanels](https://github.com/ChristianMarca/-100DaysOfCode/tree/master/FlexPlanels)
+
+### R7D7
+Manejo de JavaScript asincrono para filtrado de datos asincrono basado en https://javascript30.com disponible en [AjaxTypeAhead](https://github.com/ChristianMarca/-100DaysOfCode/tree/master/AjaxTypeAhead)
