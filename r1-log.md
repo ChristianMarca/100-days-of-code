@@ -24,3 +24,7 @@ Flex panel con paradigma imperativo con prototypal inheritence basado en https:/
 
 ### R7D7
 Manejo de JavaScript asincrono para filtrado de datos asincrono basado en https://javascript30.com disponible en [AjaxTypeAhead](https://github.com/ChristianMarca/-100DaysOfCode/tree/master/AjaxTypeAhead)
+
+
+### R8D8
+Implementacipn de algoritmo de table de hashe spara conparacion de arreglos (algunos errores por corregir) disponible en [tableHash](https://github.com/ChristianMarca/-100DaysOfCode/tree/master/hashTable)
