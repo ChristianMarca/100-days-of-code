@@ -28,3 +28,6 @@ Manejo de JavaScript asincrono para filtrado de datos asincrono basado en https:
 
 ### R8D8
 Implementacipn de algoritmo de table de hashe spara conparacion de arreglos (algunos errores por corregir) disponible en [tableHash](https://github.com/ChristianMarca/-100DaysOfCode/tree/master/hashTable)
+
+### R9D9
+Practicando con metodos de Array.prototype desafio relicado de https://javascript30.com disponible en [PlayingWithArrayMethods2](https://github.com/ChristianMarca/-100DaysOfCode/tree/master/PlayingWithArray2)
