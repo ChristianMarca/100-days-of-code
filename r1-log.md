@@ -31,3 +31,6 @@ Implementacipn de algoritmo de table de hashe spara conparacion de arreglos (alg
 
 ### R9D9
 Practicando con metodos de Array.prototype desafio relicado de https://javascript30.com disponible en [PlayingWithArrayMethods2](https://github.com/ChristianMarca/-100DaysOfCode/tree/master/PlayingWithArray2)
+
+### R10D10
+Practicando con consumo de API de google maps disponible en [PlayingWithGoogleMapsAPI](https://github.com/ChristianMarca/-100DaysOfCode/tree/master/PlayingWithGoogleMapsAPI)
