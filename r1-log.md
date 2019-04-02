@@ -30,7 +30,10 @@ Manejo de JavaScript asincrono para filtrado de datos asincrono basado en https:
 Implementacipn de algoritmo de table de hashe spara conparacion de arreglos (algunos errores por corregir) disponible en [tableHash](https://github.com/ChristianMarca/-100DaysOfCode/tree/master/hashTable)
 
 ### R9D9
-Practicando con metodos de Array.prototype desafio relicado de https://javascript30.com disponible en [PlayingWithArrayMethods2](https://github.com/ChristianMarca/-100DaysOfCode/tree/master/PlayingWithArray2)
+Practicando con metodos de Array.prototype desafio replicado de https://javascript30.com disponible en [PlayingWithArrayMethods2](https://github.com/ChristianMarca/-100DaysOfCode/tree/master/PlayingWithArray2)
 
 ### R10D10
 Practicando con consumo de API de google maps disponible en [PlayingWithGoogleMapsAPI](https://github.com/ChristianMarca/-100DaysOfCode/tree/master/PlayingWithGoogleMapsAPI)
+
+### R11D11
+Juagando con HTML Canvas desafio basado en https://javascript30.com disponible en [HTMLCanvas](https://github.com/ChristianMarca/-100DaysOfCode/tree/master/HTMLCanvas)
