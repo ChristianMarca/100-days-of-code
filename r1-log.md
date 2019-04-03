@@ -37,3 +37,6 @@ Practicando con consumo de API de google maps disponible en [PlayingWithGoogleMa
 
 ### R11D11
 Juagando con HTML Canvas desafio basado en https://javascript30.com disponible en [HTMLCanvas](https://github.com/ChristianMarca/-100DaysOfCode/tree/master/HTMLCanvas)
+
+### R12D12
+Implementacipn de algoritmos de ordenamiento como interseccion, seleccion, burbuja y 2 de tipo Merge sort disponible en [SortingAlgorithmsP1](https://github.com/ChristianMarca/-100DaysOfCode/tree/master/SortingAlgorithms)
