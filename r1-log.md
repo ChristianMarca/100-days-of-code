@@ -43,3 +43,6 @@ Implementacion de algoritmos de ordenamiento como interseccion, seleccion, burbu
 
 ### R12D13
 Implementacion de algoritmo de ordenamiento Heapsort disponible en [SortingAlgorithmsP1](https://github.com/ChristianMarca/-100DaysOfCode/tree/master/SortingAlgorithms)
+
+### R12D14
+Implementacion de algoritmos de ordenamiento shellSort Quicksort/monticulos disponible en [SortingAlgorithmsP1](https://github.com/ChristianMarca/-100DaysOfCode/tree/master/SortingAlgorithms)
