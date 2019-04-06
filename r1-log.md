@@ -46,3 +46,6 @@ Implementacion de algoritmo de ordenamiento Heapsort disponible en [SortingAlgor
 
 ### R12D14
 Implementacion de algoritmos de ordenamiento shellSort Quicksort/monticulos disponible en [SortingAlgorithmsP1](https://github.com/ChristianMarca/-100DaysOfCode/tree/master/SortingAlgorithms)
+
+### R12D15
+D3.js graph for comparition time sort algorithms part 1 disponible en [SortingAlgorithmsP1](https://github.com/ChristianMarca/-100DaysOfCode/tree/master/SortingAlgorithms)
