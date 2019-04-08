@@ -36,7 +36,7 @@ Practicando con metodos de Array.prototype desafio replicado de https://javascri
 Practicando con consumo de API de google maps disponible en [PlayingWithGoogleMapsAPI](https://github.com/ChristianMarca/-100DaysOfCode/tree/master/PlayingWithGoogleMapsAPI)
 
 ### R11D11
-Juagando con HTML Canvas desafio basado en https://javascript30.com disponible en [HTMLCanvas](https://github.com/ChristianMarca/-100DaysOfCode/tree/master/HTMLCanvas)
+Jugando con HTML Canvas desafio basado en https://javascript30.com disponible en [HTMLCanvas](https://github.com/ChristianMarca/-100DaysOfCode/tree/master/HTMLCanvas)
 
 ### R12D12
 Implementacion de algoritmos de ordenamiento como interseccion, seleccion, burbuja y 2 de tipo Merge sort disponible en [SortingAlgorithmsP1](https://github.com/ChristianMarca/-100DaysOfCode/tree/master/SortingAlgorithms)
@@ -49,3 +49,6 @@ Implementacion de algoritmos de ordenamiento shellSort Quicksort/monticulos disp
 
 ### R12D15
 D3.js graph for comparition time sort algorithms part 1 disponible en [SortingAlgorithmsP1](https://github.com/ChristianMarca/-100DaysOfCode/tree/master/SortingAlgorithms)
+
+### R13D16
+Multiple seleccion de chackbox con ShiftKey basado en https://javascript30.com disponible en [MultipleSelectableCheckBox](https://github.com/ChristianMarca/-100DaysOfCode/tree/master/MultipleSelectableCheckBox)
