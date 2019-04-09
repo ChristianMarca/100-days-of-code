@@ -52,3 +52,6 @@ D3.js graph for comparition time sort algorithms part 1 disponible en [SortingAl
 
 ### R13D16
 Multiple seleccion de chackbox con ShiftKey basado en https://javascript30.com disponible en [MultipleSelectableCheckBox](https://github.com/ChristianMarca/-100DaysOfCode/tree/master/MultipleSelectableCheckBox)
+
+### R14D17
+Custom video player basado en https://javascript30.com disponible en [VideoPlayer](https://github.com/ChristianMarca/-100DaysOfCode/tree/master/VideoPlayer)
